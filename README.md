@@ -1,214 +1,230 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0077B5&height=180&section=header&text=Priyanshu%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20Development&descAlignY=60&descSize=16" width="100%" alt="Priyanshu Singh Profile Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Priyanshu%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Priyanshu Singh profile banner" />
 
-<br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Software+Developer;Backend+Development;Building+Real-World+Projects;C%2B%2B+%7C+JavaScript+%7C+Node.js" alt="Typing animation" />
 
-<a href="https://github.com/priyanshu23216">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/priyanshu-singh-97a4782ab/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=priyanshu23216&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile views" />
+
+  <br/><br/>
+
+  <a href="https://github.com/priyanshu23216">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/priyanshu-singh-97a4782ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
 </div>
 
 ---
 
-<h2>👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<ul>
-  <li>🎓 Bachelor's degree student pursuing Data Science and Artificial Intelligence at IIT Guwahati.</li>
-  <li>💻 Focused on software development, backend engineering and building web applications.</li>
-  <li>🧠 Practising Data Structures and Algorithms in C++.</li>
-  <li>⚙️ Working with JavaScript, Node.js, Express.js and databases.</li>
-  <li>🚀 Interested in building practical software that solves real-world problems.</li>
-</ul>
+- 🎓 Bachelor's degree student pursuing Data Science and Artificial Intelligence at IIT Guwahati.
+- 💻 Focused on software development, backend engineering and web applications.
+- 🧠 Practicing Data Structures and Algorithms in C++.
+- 🛠️ Building practical projects to strengthen my development skills.
 
 ---
 
-<h2>🛠️ Technologies & Tools</h2>
-
-<h3>Languages</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js&theme=dark" alt="C++, HTML, CSS and JavaScript">
-</div>
-
-<h3>Frontend Development</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML, CSS, JavaScript and React">
-</div>
-
-<h3>Backend Development</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js">
-</div>
-
-<h3>Databases</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL and MongoDB">
-</div>
-
-<h3>Development Tools</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code">
-</div>
-
----
-
-<h2>🚀 Featured Projects</h2>
-
-<h3>01. 💱 Currency Converter</h3>
-
-<p>
-  A currency converter web application that fetches exchange rates from an API and converts amounts between different currencies.
-</p>
-
-<p><strong>Tech Stack:</strong> HTML · CSS · JavaScript · Frankfurter API</p>
-
-<p>
-  <a href="https://github.com/priyanshu23216/Currency-Convertor-Project">
-    <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Currency Converter">
-  </a>
-</p>
-
-<hr>
-
-<h3>02. ✊ Rock Paper Scissors</h3>
-
-<p>
-  An interactive browser game built to practise JavaScript logic, event handling and DOM manipulation.
-</p>
-
-<p><strong>Tech Stack:</strong> HTML · CSS · JavaScript</p>
-
-<p>
-  <a href="https://github.com/priyanshu23216/Rock-Paper-Scissor-Game">
-    <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Rock Paper Scissors">
-  </a>
-</p>
-
-<hr>
-
-<h3>03. ❌ Tic-Tac-Toe</h3>
-
-<p>
-  A two-player browser game featuring interactive gameplay, winner detection and a reset function.
-</p>
-
-<p><strong>Tech Stack:</strong> HTML · CSS · JavaScript</p>
-
-<p>
-  <a href="https://github.com/priyanshu23216/Tic-Tac-Toe">
-    <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Tic-Tac-Toe">
-  </a>
-</p>
-
-<hr>
-
-<h3>04. 📝 Quora Posts CRUD</h3>
-
-<p>
-  A Quora-inspired web application for creating, viewing, editing and deleting posts using unique IDs, server-side routing and dynamic templates.
-</p>
-
-<p><strong>Tech Stack:</strong> Node.js · Express.js · EJS · HTML · CSS</p>
-
-<p>
-  <a href="https://github.com/priyanshu23216/Quora--Posts-CRUD">
-    <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Quora Posts CRUD">
-  </a>
-</p>
-
-<hr>
-
-<h3>05. 🗄️ Express MySQL User Management</h3>
-
-<p>
-  A user management application using Express.js and MySQL for user registration and database-backed record management.
-</p>
-
-<p><strong>Tech Stack:</strong> Node.js · Express.js · EJS · MySQL</p>
-
-<p>
-  <a href="https://github.com/priyanshu23216/express-mysql-user-management">
-    <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Express MySQL User Management">
-  </a>
-</p>
-
-<hr>
-
-<h3>06. 🔐 User Management System</h3>
-
-<p>
-  A web application for registering users, viewing records, editing information and deleting records, with password verification for protected operations.
-</p>
-
-<p><strong>Tech Stack:</strong> Node.js · Express.js · EJS · MySQL</p>
-
-<p>
-  <a href="https://github.com/priyanshu23216/User-Management-System">
-    <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View User Management System">
-  </a>
-</p>
-
----
-
-<h2>📊 GitHub Statistics</h2>
+## ⚙️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshu23216&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub Statistics">
+### Programming Languages
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=cpp,js" alt="C++ and JavaScript"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu23216&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Most Used Languages">
+### Frontend Development
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS and React"/>
 
-<img src="https://streak-stats.demolab.com?user=priyanshu23216&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak">
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB"/>
+
+### Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code"/>
 
 </div>
 
 ---
 
-<h2>🎯 Current Focus</h2>
-
-<ul>
-  <li>Strengthening problem-solving skills through DSA in C++.</li>
-  <li>Improving backend development using Node.js and Express.js.</li>
-  <li>Learning modern web technologies and database systems.</li>
-  <li>Building maintainable applications with practical use cases.</li>
-</ul>
-
----
-
-<h2>🤝 Connect With Me</h2>
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/priyanshu-singh-97a4782ab/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=FF4DFF&center=true&vCenter=true&width=600&lines=%F0%9F%92%A1+WORDS+FROM+TECH+LEADERS" alt="Words from tech leaders animated heading"/>
 
-<a href="https://github.com/priyanshu23216">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
-</a>
+  <br/>
+
+  <img src="https://img.shields.io/badge/SOFTWARE-00D9FF?style=for-the-badge&labelColor=101820" alt="Software"/>
+  <img src="https://img.shields.io/badge/INNOVATION-FF4DFF?style=for-the-badge&labelColor=101820" alt="Innovation"/>
+  <img src="https://img.shields.io/badge/ENGINEERING-FFD166?style=for-the-badge&labelColor=101820" alt="Engineering"/>
+
+  <br/><br/>
+
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/BILL%20GATES-00D9FF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Bill Gates"/>
+        <br/><br/>
+        <i>"Software is a great combination between artistry and engineering."</i>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/SOFTWARE%20%2B%20ART-00D9FF?style=flat-square" alt="Software and art"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/STEVE%20JOBS-FF4DFF?style=for-the-badge&logo=apple&logoColor=white" alt="Steve Jobs"/>
+        <br/><br/>
+        <i>"Everyone should learn how to program a computer, because it teaches you how to think."</i>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/THINK%20DIFFERENT-FF4DFF?style=flat-square" alt="Think different"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/MARK%20ZUCKERBERG-FFD166?style=for-the-badge&logo=meta&logoColor=white" alt="Mark Zuckerberg"/>
+        <br/><br/>
+        <i>"My number one piece of advice is: you should learn how to program."</i>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/LEARN%20TO%20CODE-FFD166?style=flat-square" alt="Learn to code"/>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:FF4DFF,100:FFD166&height=3&section=header" width="80%" alt="Colorful divider"/>
 
 </div>
 
-<br>
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💱 Currency Converter</h3>
+      <p align="center">
+        <a href="https://github.com/priyanshu23216/Currency-Convertor-Project">
+          <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="View Currency Converter repository"/>
+        </a>
+      </p>
+      <p>A currency conversion application built with HTML, CSS and JavaScript, using an external API to retrieve exchange rates.</p>
+      <p><strong>Tech:</strong> HTML · CSS · JavaScript · API</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🪨 Rock Paper Scissors</h3>
+      <p align="center">
+        <a href="https://github.com/priyanshu23216/Rock-Paper-Scissor-Game">
+          <img src="https://img.shields.io/badge/VIEW%20PROJECT-FF4DFF?style=for-the-badge&logo=github&logoColor=white" alt="View Rock Paper Scissors repository"/>
+        </a>
+      </p>
+      <p>An interactive browser game implementing game rules and user interactions with JavaScript.</p>
+      <p><strong>Tech:</strong> HTML · CSS · JavaScript</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">❌ Tic Tac Toe</h3>
+      <p align="center">
+        <a href="https://github.com/priyanshu23216/Tic-Tac-Toe">
+          <img src="https://img.shields.io/badge/VIEW%20PROJECT-FFD166?style=for-the-badge&logo=github&logoColor=black" alt="View Tic Tac Toe repository"/>
+        </a>
+      </p>
+      <p>A browser-based Tic Tac Toe game with interactive gameplay and win-condition logic.</p>
+      <p><strong>Tech:</strong> HTML · CSS · JavaScript</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📝 Quora Posts CRUD</h3>
+      <p align="center">
+        <a href="https://github.com/priyanshu23216/Quora--Posts-CRUD">
+          <img src="https://img.shields.io/badge/VIEW%20PROJECT-00E5A8?style=for-the-badge&logo=github&logoColor=black" alt="View Quora Posts CRUD repository"/>
+        </a>
+      </p>
+      <p>A Quora-inspired application supporting post creation, viewing, editing and deletion using server-side rendering.</p>
+      <p><strong>Tech:</strong> Node.js · Express.js · EJS · CSS</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">👥 Express MySQL User Management</h3>
+      <p align="center">
+        <a href="https://github.com/priyanshu23216/express-mysql-user-management">
+          <img src="https://img.shields.io/badge/VIEW%20PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View Express MySQL repository"/>
+        </a>
+      </p>
+      <p>A user management application integrating Express.js with MySQL for database-backed user registration and operations.</p>
+      <p><strong>Tech:</strong> Node.js · Express.js · EJS · MySQL</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔐 User Management System</h3>
+      <p align="center">
+        <a href="https://github.com/priyanshu23216/User-Management-System">
+          <img src="https://img.shields.io/badge/VIEW%20PROJECT-FF7A59?style=for-the-badge&logo=github&logoColor=white" alt="View User Management System repository"/>
+        </a>
+      </p>
+      <p>A database-backed user management system with registration, viewing, editing, deletion and password verification.</p>
+      <p><strong>Tech:</strong> Node.js · Express.js · EJS · MySQL</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<h3>Code. Build. Learn. Repeat.</h3>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=priyanshu23216&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:0D1117&height=100&section=footer" width="100%" alt="Profile footer banner">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu23216&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+  <br/><br/>
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=priyanshu23216&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening Data Structures and Algorithms in C++.
+- Improving backend development skills with Node.js and Express.js.
+- Working with SQL databases and CRUD operations.
+- Building more complete, practical web applications.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Interested+in+Software+Engineering;Always+Building+and+Learning;Let's+Connect+and+Collaborate" alt="Connect animation"/>
+
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/priyanshu-singh-97a4782ab/">
+    <img src="https://img.shields.io/badge/CONNECT%20ON-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/priyanshu23216">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
