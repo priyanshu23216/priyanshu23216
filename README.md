@@ -5,7 +5,7 @@
 
   <!-- ==================== ARCTIC CYAN TYPING ANIMATION ==================== -->
   <a href="https://github.com/priyanshu23216">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=740&lines=Full+Stack+Developer+%7C+Software+Engineer;Session-Based+Auth+%7C+RBAC+Access+Control;Redis+In-Memory+Store+%7C+MySQL+%7C+MongoDB;AI-Accelerated+Engineering+%7C+Antigravity+%26+Copilot;Data+Structures+%26+Algorithms+in+C%2B%2B" alt="Dynamic Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=740&lines=Full+Stack+Developer+%7C+Software+Engineer;Building+Real-World+Products+That+Solve+Problems;Session-Based+Auth+%7C+RBAC+Access+Control;Redis+In-Memory+Store+%7C+MySQL+%7C+MongoDB;Data+Structures+%26+Algorithms+in+C%2B%2B" alt="Dynamic Typing Animation" />
   </a>
 
   <br/><br/>
@@ -32,23 +32,13 @@
 
 ### 👨‍💻 Engineering Profile
 
-```bash
-priyanshu@devbox:~$ whoami
-Priyanshu Singh — Full Stack Developer & Software Engineer
+> *"I am a product -focused developer who builds real-world applications that solve genuine problems ,leveraging C++ DSA for algorithmic efficiency, Redis for sub-millisecond speed, and bulletproof session security."*
 
-priyanshu@devbox:~$ cat core_pillars.txt
-• Full-Stack Architecture : End-to-end web apps with modular MVC backends & fluid frontends
-• Session Security & RBAC : Stateful session auth, HTTP-only cookies & role-based middleware
-• In-Memory Performance   : Redis distributed session store & sub-millisecond query caching
-• AI Developer Velocity   : Antigravity & GitHub Copilot for rapid prototyping & test suites
-• Algorithmic Core        : Data Structures & Algorithms in C++ for optimal complexity
-```
-
-- 🌐 **Full-Stack Engineering**: Crafting end-to-end web applications with responsive user interfaces and modular, decoupled server-side services.
-- 🔐 **Session Security & RBAC**: Specialized in **stateful session authentication**, custom authorization middleware, tamper-proof HTTP-only cookies, and fine-grained **Role-Based Access Control (RBAC)**.
-- ⚡ **Redis & Performance Tuning**: Utilizing **Redis** for sub-millisecond in-memory session persistence, query caching, and high-frequency access layers.
-- 🤖 **AI-Augmented Velocity**: Supercharging engineering workflows using agentic assistants like **Antigravity** and **GitHub Copilot** for rapid prototyping and rigorous test generation while keeping architecture human-driven.
-- 🧠 **Algorithmic Foundations**: Actively practicing **Data Structures & Algorithms in C++** for clean, time- and space-optimal problem solving.
+- 🌐 **Full-Stack Product Engineering**: Crafting complete, end-to-end web products with modular MVC backend architectures, relational data modeling, and responsive modern user interfaces.
+- 🔐 **Session Security & RBAC**: Implementing stateful session authentication with encrypted HTTP-only cookies, session lifecycle management, and fine-grained Role-Based Access Control (RBAC).
+- ⚡ **Redis & In-Memory Performance**: Leveraging Redis for distributed session persistence, query result caching, and sub-millisecond data retrieval.
+- 🤖 **AI-Augmented Developer Velocity**: Integrating modern agentic tools like Antigravity and GitHub Copilot to accelerate prototyping and testing while keeping architecture human-led.
+- 🧠 **Data Structures & Algorithms in C++**: Deep foundational understanding of DSA in C++ to write memory-efficient, performant algorithms and optimize runtime complexity for real-world software.
 
 ---
 
@@ -320,7 +310,7 @@ priyanshu@devbox:~$ cat core_pillars.txt
 - 🛡️ **Fine-Grained RBAC**: Implementing dynamic role permission matrices with granular capability verification per endpoint.
 - 🚀 **Full-Stack Performance**: Optimizing client asset loading, SQL query execution plans, and caching hot read data.
 - 🤖 **Agentic Engineering Workflows**: Supercharging development cycles through agentic pair-programming frameworks.
-- 🧠 **C++ Algorithmic Mastery**: Expanding competitive problem-solving patterns in dynamic programming, graphs, and trees.
+- 🧠 **C++ DSA for High Performance**: Deepening Data Structures & Algorithms in C++ to write memory-efficient, low-latency algorithms for real-world software.
 
 ---
 
@@ -328,7 +318,7 @@ priyanshu@devbox:~$ cat core_pillars.txt
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Passionate+About+Full+Stack+Development;Always+Excited+to+Build+Scalable+Products;Let's+Connect+and+Create+Something+Impactful!" alt="Connect animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Passionate+About+Building+Real-World+Products;Always+Excited+to+Solve+Challenging+Problems;Let's+Connect+and+Create+Something+Impactful!" alt="Connect animation" />
 
   <br/><br/>
 
