@@ -1,14 +1,13 @@
 <div align="center">
 
-  <!-- ==================== DEEP OCEANIC MIDNIGHT HEADER BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,30:0B132B,70:1E3A8A,100:0284C7&height=230&section=header&text=Priyanshu%20Singh&fontSize=50&fontColor=F0F9FF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descSize=19&descColor=38BDF8&descAlignY=60&descAlign=50" width="100%" alt="Priyanshu Singh Header Banner" />
+  <br/>
+  <h1>🌊 Priyanshu Singh</h1>
+  <h3>Full Stack Developer &nbsp;|&nbsp; Cloud & Systems Engineer</h3>
+  <p>
+    <em>Building high-throughput, resilient distributed systems with <strong>C++ DSA</strong>, <strong>Redis</strong>, <strong>Docker</strong>, and <strong>Microsoft Azure</strong></em>
+  </p>
 
-  <!-- ==================== ARCTIC CYAN TYPING ANIMATION ==================== -->
-  <a href="https://github.com/priyanshu23216">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=740&lines=Full+Stack+Developer+%7C+Software+Engineer;Building+Real-World+Products+That+Solve+Problems;Session-Based+Auth+%7C+RBAC+Access+Control;Redis+In-Memory+Store+%7C+MySQL+%7C+MongoDB;Data+Structures+%26+Algorithms+in+C%2B%2B" alt="Dynamic Typing Animation" />
-  </a>
-
-  <br/><br/>
+  <br/>
 
   <!-- ==================== COBALT ACTION BADGES ==================== -->
   <a href="https://www.linkedin.com/in/priyanshu-singh-97a4782ab/">
@@ -23,22 +22,19 @@
 
   <br/><br/>
 
-  <!-- Arctic Blue Gradient Divider Line -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,40:0284C7,75:1E3A8A,100:030712&height=3&section=header" width="85%" alt="Divider Line" />
-
 </div>
 
 ---
 
 ### 👨‍💻 Engineering Profile
 
-> *"I am a product -focused developer who builds real-world applications that solve genuine problems ,leveraging C++ DSA for algorithmic efficiency, Redis for sub-millisecond speed, and bulletproof session security."*
+> *"I am a product-focused software engineer who builds scalable, resilient distributed applications — leveraging C++ DSA for algorithmic efficiency, Redis for sub-millisecond in-memory speed, Docker for containerization, and Microsoft Azure for high-availability cloud deployments."*
 
-- 🌐 **Full-Stack Product Engineering**: Crafting complete, end-to-end web products with modular MVC backend architectures, relational data modeling, and responsive modern user interfaces.
-- 🔐 **Session Security & RBAC**: Implementing stateful session authentication with encrypted HTTP-only cookies, session lifecycle management, and fine-grained Role-Based Access Control (RBAC).
-- ⚡ **Redis & In-Memory Performance**: Leveraging Redis for distributed session persistence, query result caching, and sub-millisecond data retrieval.
-- 🤖 **AI-Augmented Developer Velocity**: Integrating modern agentic tools like Antigravity and GitHub Copilot to accelerate prototyping and testing while keeping architecture human-led.
-- 🧠 **Data Structures & Algorithms in C++**: Deep foundational understanding of DSA in C++ to write memory-efficient, performant algorithms and optimize runtime complexity for real-world software.
+- 🌐 **Full-Stack Systems**: Crafting scalable end-to-end web products with modular MVC architectures, relational data modeling, and responsive modern user interfaces.
+- 🐳 **Containers & Cloud**: Architecting containerized environments with **Docker** and deploying scalable production workloads on **Microsoft Azure**.
+- ⚡ **Redis & In-Memory Performance**: Implementing sub-millisecond Redis caching, atomic rate limiters, session stores, and TTL-governed ephemeral OTP authentication.
+- 🔐 **Session Security & RBAC**: Enforcing stateful session lifecycles, HTTP-only secure cookie pipelines, and multi-tenant Role-Based Access Control (RBAC).
+- 🧠 **Data Structures & Algorithms in C++**: Applying core algorithmic problem-solving to design memory-efficient, low-latency backends and eliminate computational bottlenecks.
 
 ---
 
@@ -46,8 +42,8 @@
 
 <div align="center">
 
-  <h3>⚡ Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=cpp,js,python" alt="C++, JavaScript, Python" />
+  <h3>⚡ Core Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" alt="C++, JavaScript, TypeScript, Python" />
   <br/><br/>
 
   <h3>🌐 Frontend & Client-Side UI</h3>
@@ -58,15 +54,19 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express.js" />
   <br/><br/>
 
-  <h3>🗄️ Databases & In-Memory Store</h3>
+  <h3>🗄️ Databases & In-Memory Stores</h3>
   <img src="https://skillicons.dev/icons?i=redis,mysql,mongodb" alt="Redis, MySQL, MongoDB" />
+  <br/><br/>
+
+  <h3>☁️ Cloud, Containers & DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=docker,azure,git,linux" alt="Docker, Microsoft Azure, Git, Linux" />
   <br/><br/>
 
   <h3>🔐 Security & Session Architecture</h3>
   <p>
     <img src="https://img.shields.io/badge/SESSION--BASED%20AUTH-0284C7?style=for-the-badge&logo=express&logoColor=white" alt="Session Auth" />
     <img src="https://img.shields.io/badge/RBAC-ACCESS%20CONTROL-1D4ED8?style=for-the-badge&logoColor=white" alt="RBAC" />
-    <img src="https://img.shields.io/badge/REDIS-SESSION%20STORE-0369A1?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Session Store" />
+    <img src="https://img.shields.io/badge/REDIS-IN--MEMORY%20STORE-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Store" />
     <img src="https://img.shields.io/badge/BCRYPT-SECURE%20HASH-1E3A8A?style=for-the-badge&logoColor=white" alt="Bcrypt" />
   </p>
 
@@ -74,12 +74,9 @@
   <p>
     <img src="https://img.shields.io/badge/Antigravity-Agentic%20AI%20Coding-2563EB?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
     <img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Pair%20Programming-0F172A?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-    <img src="https://img.shields.io/badge/Cursor%20/%20VS%20Code-AI%20IDE-1E293B?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8" alt="VS Code & Cursor" />
-    <img src="https://img.shields.io/badge/Gemini%20API-LLM%20Workflows-1D4ED8?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
+    <img src="https://img.shields.io/badge/VS%20Code-AI%20IDE-1E293B?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   </p>
-
-  <h3>🛠️ Developer Ecosystem & Workflow</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" alt="Git, GitHub, VS Code, Postman, Linux" />
 
 </div>
 
@@ -99,17 +96,19 @@
         </a>
       </div>
       <br/>
-      <p>A full-stack hotel booking platform built from the ground up featuring relational schema design, room cataloging, multi-tier booking flows, and stateful user management.</p>
+      <p>A full-stack hotel booking platform built from the ground up featuring relational schema design, room cataloging, multi-tier booking flows, containerized services, and stateful user management.</p>
       <ul>
-        <li><strong>Security:</strong> Session-based authentication with encrypted cookies.</li>
-        <li><strong>Access Control:</strong> Granular RBAC distinguishing <em>Guests</em>, <em>Hoteliers</em>, and <em>Admins</em>.</li>
-        <li><strong>Persistence:</strong> Relational MySQL storage with connection pooling & transaction handling.</li>
+        <li><strong>In-Memory Layer:</strong> Docker-containerized Redis instance managing ephemeral OTP auth, rate-limiting, and distributed session storage.</li>
+        <li><strong>Security & RBAC:</strong> Session-based authentication, Passport (Local & Google OAuth 2.0), and strict role enforcement (<em>Guest</em>, <em>Host</em>, <em>Admin</em>).</li>
+        <li><strong>Cloud & Database:</strong> Relational MySQL with connection pooling, built for containerized deployment on <strong>Microsoft Azure</strong>.</li>
       </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/RBAC-1D4ED8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -124,7 +123,7 @@
       <p>A production-ready authentication and authorization system enforcing complete server-side session lifecycles, encrypted credentials, and permission-based route protection.</p>
       <ul>
         <li><strong>Auth Engine:</strong> Stateful session generation, validation, and destruction.</li>
-        <li><strong>Security Middleware:</strong> Strict route interceptors checking roles before access.</li>
+        <li><strong>Security Middleware:</strong> Strict route interceptors checking roles before granting access.</li>
         <li><strong>Password Safety:</strong> Salted hashing with Bcrypt to resist credential compromise.</li>
       </ul>
       <p align="center">
@@ -176,45 +175,6 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Full%20Stack-2563EB?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-
-  <!-- Row 3: Frontend & Interactive Engines -->
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/ASYNC-REST%20INTEGRATION-0284C7?style=for-the-badge" alt="Async"/>
-        <h3>💱 Real-Time Currency Converter</h3>
-        <a href="https://github.com/priyanshu23216/Currency-Convertor-Project">
-          <img src="https://img.shields.io/badge/EXPLORE%20CODE-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Currency Converter"/>
-        </a>
-      </div>
-      <br/>
-      <p>An interactive exchange engine fetching asynchronous data from foreign exchange APIs to deliver instant currency parity computations with custom country flags.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/REST%20APIs-0284C7?style=flat-square" />
-        <img src="https://img.shields.io/badge/DOM%20APIs-38BDF8?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/LOGIC-STATE%20MACHINES-1E3A8A?style=for-the-badge" alt="State Machines"/>
-        <h3>🎮 Interactive Game Engines</h3>
-        <a href="https://github.com/priyanshu23216/Tic-Tac-Toe">
-          <img src="https://img.shields.io/badge/TIC%20TAC%20TOE-38BDF8?style=flat-square&logo=github&logoColor=white" alt="Tic Tac Toe"/>
-        </a>
-        <a href="https://github.com/priyanshu23216/Rock-Paper-Scissor-Game">
-          <img src="https://img.shields.io/badge/RPS%20GAME-1D4ED8?style=flat-square&logo=github&logoColor=white" alt="RPS Game"/>
-        </a>
-      </div>
-      <br/>
-      <p>Clean browser-native games demonstrating state machine architectures, optimal win-condition matrices, scoreboard tracking, and fluid event listening.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/CSS%20Grid-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/UI%2FUX-38BDF8?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -306,10 +266,10 @@
 
 ### 🎯 2026 Engineering Roadmap
 
-- ⚡ **Redis Session Stores**: Transitioning in-memory server state to distributed Redis stores (`connect-redis`) for zero-downtime scaling.
-- 🛡️ **Fine-Grained RBAC**: Implementing dynamic role permission matrices with granular capability verification per endpoint.
-- 🚀 **Full-Stack Performance**: Optimizing client asset loading, SQL query execution plans, and caching hot read data.
-- 🤖 **Agentic Engineering Workflows**: Supercharging development cycles through agentic pair-programming frameworks.
+- 🐳 **Containerization with Docker**: Packaging micro-services and database containers for identical environments across local dev and cloud.
+- ☁️ **Microsoft Azure Deployment**: Deploying containerized Node.js applications to Azure App Services and Azure Container Apps.
+- ⚡ **Redis Session Stores & Caching**: Transitioning state to distributed Redis stores (`connect-redis`) and caching hot database queries.
+- 🛡️ **Fine-Grained RBAC & OTP Security**: Enforcing zero-trust authentication matrices with cryptographic verification and rate limiting.
 - 🧠 **C++ DSA for High Performance**: Deepening Data Structures & Algorithms in C++ to write memory-efficient, low-latency algorithms for real-world software.
 
 ---
@@ -317,10 +277,6 @@
 ### 🤝 Let's Connect & Collaborate
 
 <div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Passionate+About+Building+Real-World+Products;Always+Excited+to+Solve+Challenging+Problems;Let's+Connect+and+Create+Something+Impactful!" alt="Connect animation" />
-
-  <br/><br/>
 
   <a href="https://www.linkedin.com/in/priyanshu-singh-97a4782ab/">
     <img src="https://img.shields.io/badge/CONNECT%20ON-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
@@ -332,7 +288,8 @@
 
   <br/><br/>
 
-  <!-- ==================== DEEP OCEANIC MIDNIGHT FOOTER BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,30:0B132B,70:1E3A8A,100:0284C7&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <p style="color: #64748B; font-size: 13px;">
+    © 2026 Priyanshu Singh &bull; Built with passion for scalable product engineering.
+  </p>
 
 </div>
