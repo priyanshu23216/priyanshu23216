@@ -2,9 +2,9 @@
 
   <br/>
   <h1>🌊 Priyanshu Singh</h1>
-  <h3>Full Stack Developer &nbsp;|&nbsp; Cloud & Systems Engineer</h3>
+  <h3>Full Stack Developer &nbsp;|&nbsp; Software Engineer</h3>
   <p>
-    <em>Building high-throughput, resilient distributed systems with <strong>C++ DSA</strong>, <strong>Redis</strong>, <strong>Docker</strong>, and <strong>Microsoft Azure</strong></em>
+    <em>Architecting end-to-end software systems across <strong>C++ DSA</strong> &bull; <strong>JavaScript & TypeScript</strong> &bull; <strong>React</strong> &bull; <strong>Node.js & Express</strong> &bull; <strong>MySQL & MongoDB</strong> &bull; <strong>Redis</strong> &bull; <strong>Docker</strong> &bull; <strong>Microsoft Azure</strong></em>
   </p>
 
   <br/>
@@ -28,13 +28,14 @@
 
 ### 👨‍💻 Engineering Profile
 
-> *"I am a product-focused software engineer who builds scalable, resilient distributed applications — leveraging C++ DSA for algorithmic efficiency, Redis for sub-millisecond in-memory speed, Docker for containerization, and Microsoft Azure for high-availability cloud deployments."*
+> *"I am a product-focused software engineer who builds complete, high-performance web products — from responsive React and modern UI frontends to robust Node.js/Express backends, backed by C++ DSA efficiency, sub-millisecond Redis caching, relational & NoSQL storage (MySQL & MongoDB), containerized with Docker, and deployed on Microsoft Azure."*
 
-- 🌐 **Full-Stack Systems**: Crafting scalable end-to-end web products with modular MVC architectures, relational data modeling, and responsive modern user interfaces.
-- 🐳 **Containers & Cloud**: Architecting containerized environments with **Docker** and deploying scalable production workloads on **Microsoft Azure**.
-- ⚡ **Redis & In-Memory Performance**: Implementing sub-millisecond Redis caching, atomic rate limiters, session stores, and TTL-governed ephemeral OTP authentication.
-- 🔐 **Session Security & RBAC**: Enforcing stateful session lifecycles, HTTP-only secure cookie pipelines, and multi-tenant Role-Based Access Control (RBAC).
-- 🧠 **Data Structures & Algorithms in C++**: Applying core algorithmic problem-solving to design memory-efficient, low-latency backends and eliminate computational bottlenecks.
+- 🌐 **Full-Stack Architecture**: Engineering complete products end-to-end with **React**, **HTML5/CSS3/Tailwind**, modular MVC backends in **Node.js & Express**, and clean RESTful API contracts.
+- 🗄️ **Relational & Document Databases**: Designing optimized data schemas using **MySQL** (connection pooling, foreign keys, transactions) and **MongoDB** (flexible document stores).
+- ⚡ **Redis & In-Memory Systems**: Leveraging **Redis** for sub-millisecond query caching, distributed session persistence, atomic rate-limiters, and TTL-governed ephemeral OTP verification.
+- 🐳 **Containers & Cloud Deployment**: Packaging reproducible software services with **Docker** and deploying scalable cloud infrastructure on **Microsoft Azure**.
+- 🔐 **Stateful Security & RBAC**: Enforcing encrypted session lifecycles, HTTP-only secure cookie pipelines, and multi-tenant Role-Based Access Control (RBAC).
+- 🧠 **C++ Data Structures & Algorithms**: Applying rigorous algorithmic foundations to write memory-efficient, low-latency backends and eliminate runtime bottlenecks.
 
 ---
 
