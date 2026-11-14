@@ -1,26 +1,31 @@
 <div align="center">
 
-  <br/>
-  <h1>🌊 Priyanshu Singh</h1>
-  <h3>Full Stack Developer &nbsp;|&nbsp; Software Engineer</h3>
+  <!-- ==================== ANIMATED GRADIENT WAVE HEADER ==================== -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:6D28D9,70:2563EB,100:06B6D4&height=220&section=header&text=Priyanshu%20Singh&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=20" alt="Priyanshu Singh Header" />
+
+  <!-- ==================== ANIMATED TYPING SUBTITLE ==================== -->
+  <a href="https://github.com/priyanshu23216">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%7C+Software+Engineer;C%2B%2B+DSA+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Express;MySQL+%E2%80%A2+MongoDB+%E2%80%A2+Redis+%E2%80%A2+Docker+%E2%80%A2+Azure" alt="Typing SVG" />
+  </a>
+
   <p>
     <em>Architecting end-to-end software systems across <strong>C++ DSA</strong> &bull; <strong>JavaScript & TypeScript</strong> &bull; <strong>React</strong> &bull; <strong>Node.js & Express</strong> &bull; <strong>MySQL & MongoDB</strong> &bull; <strong>Redis</strong> &bull; <strong>Docker</strong> &bull; <strong>Microsoft Azure</strong></em>
   </p>
 
   <br/>
 
-  <!-- ==================== COBALT ACTION BADGES ==================== -->
+  <!-- ==================== VIBRANT ACTION BADGES ==================== -->
   <a href="https://www.linkedin.com/in/priyanshu-singh-97a4782ab/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/priyanshu23216">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=priyanshu23216&label=PROFILE%20VIEWS&color=0284C7&style=for-the-badge" alt="Profile Views" />
-
-  <br/><br/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=priyanshu23216&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Timezone-IST%20(UTC%2B5%3A30)-06B6D4?style=for-the-badge&logo=clockify&logoColor=white" alt="IST Timezone" />
 
 </div>
 
@@ -43,39 +48,42 @@
 
 <div align="center">
 
-  <h3>⚡ Core Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" alt="C++, JavaScript, TypeScript, Python" />
-  <br/><br/>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h4>⚡ Core Languages</h4>
+        <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" alt="C++, JavaScript, TypeScript, Python" />
+      </td>
+      <td align="center" width="50%">
+        <h4>🌐 Frontend & UI</h4>
+        <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="React, HTML5, CSS3, Tailwind CSS, Bootstrap" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h4>🚀 Backend & Databases</h4>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,redis,mysql,mongodb" alt="Node.js, Express, Redis, MySQL, MongoDB" />
+      </td>
+      <td align="center" width="50%">
+        <h4>☁️ Cloud, Containers & DevOps</h4>
+        <img src="https://skillicons.dev/icons?i=docker,azure,git,linux" alt="Docker, Microsoft Azure, Git, Linux" />
+      </td>
+    </tr>
+  </table>
 
-  <h3>🌐 Frontend & Client-Side UI</h3>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="React, HTML5, CSS3, Tailwind CSS, Bootstrap" />
-  <br/><br/>
+  <br/>
 
-  <h3>🚀 Backend & Runtime Systems</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express.js" />
-  <br/><br/>
-
-  <h3>🗄️ Databases & In-Memory Stores</h3>
-  <img src="https://skillicons.dev/icons?i=redis,mysql,mongodb" alt="Redis, MySQL, MongoDB" />
-  <br/><br/>
-
-  <h3>☁️ Cloud, Containers & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=docker,azure,git,linux" alt="Docker, Microsoft Azure, Git, Linux" />
-  <br/><br/>
-
-  <h3>🔐 Security & Session Architecture</h3>
+  <h4>🔐 Security & AI-Accelerated Tooling</h4>
   <p>
-    <img src="https://img.shields.io/badge/SESSION--BASED%20AUTH-0284C7?style=for-the-badge&logo=express&logoColor=white" alt="Session Auth" />
-    <img src="https://img.shields.io/badge/RBAC-ACCESS%20CONTROL-1D4ED8?style=for-the-badge&logoColor=white" alt="RBAC" />
-    <img src="https://img.shields.io/badge/REDIS-IN--MEMORY%20STORE-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Store" />
-    <img src="https://img.shields.io/badge/BCRYPT-SECURE%20HASH-1E3A8A?style=for-the-badge&logoColor=white" alt="Bcrypt" />
+    <img src="https://img.shields.io/badge/SESSION%20AUTH-0284C7?style=for-the-badge&logo=express&logoColor=white" alt="Session Auth" />
+    <img src="https://img.shields.io/badge/RBAC%20ACCESS-7C3AED?style=for-the-badge&logo=shield&logoColor=white" alt="RBAC" />
+    <img src="https://img.shields.io/badge/REDIS%20CACHE-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Store" />
+    <img src="https://img.shields.io/badge/BCRYPT%20HASH-10B981?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Bcrypt" />
   </p>
-
-  <h3>🤖 AI-Accelerated Engineering & Productivity</h3>
   <p>
     <img src="https://img.shields.io/badge/Antigravity-Agentic%20AI%20Coding-2563EB?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
-    <img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Pair%20Programming-0F172A?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-    <img src="https://img.shields.io/badge/VS%20Code-AI%20IDE-1E293B?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8" alt="VS Code" />
+    <img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Pair%20Programmer-6D28D9?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+    <img src="https://img.shields.io/badge/VS%20Code-AI%20IDE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
     <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   </p>
 
@@ -83,124 +91,36 @@
 
 ---
 
-### 🚀 Featured Engineering Projects
-
-<table>
-  <!-- Row 1: Flagship Fullstack Projects -->
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/FLAGSHIP-FULL%20STACK-0284C7?style=for-the-badge" alt="Flagship"/>
-        <h3>🏨 Stayora - Hotel Booking Platform</h3>
-        <a href="https://github.com/priyanshu23216/Stayora">
-          <img src="https://img.shields.io/badge/EXPLORE%20CODE-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Stayora Repo"/>
-        </a>
-      </div>
-      <br/>
-      <p>A full-stack hotel booking platform built from the ground up featuring relational schema design, room cataloging, multi-tier booking flows, containerized services, and stateful user management.</p>
-      <ul>
-        <li><strong>In-Memory Layer:</strong> Docker-containerized Redis instance managing ephemeral OTP auth, rate-limiting, and distributed session storage.</li>
-        <li><strong>Security & RBAC:</strong> Session-based authentication, Passport (Local & Google OAuth 2.0), and strict role enforcement (<em>Guest</em>, <em>Host</em>, <em>Admin</em>).</li>
-        <li><strong>Cloud & Database:</strong> Relational MySQL with connection pooling, built for containerized deployment on <strong>Microsoft Azure</strong>.</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/SECURITY-RBAC%20ENGINE-0369A1?style=for-the-badge" alt="Security"/>
-        <h3>🔐 User Management & RBAC System</h3>
-        <a href="https://github.com/priyanshu23216/User-Management-System">
-          <img src="https://img.shields.io/badge/EXPLORE%20CODE-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="User Management Repo"/>
-        </a>
-      </div>
-      <br/>
-      <p>A production-ready authentication and authorization system enforcing complete server-side session lifecycles, encrypted credentials, and permission-based route protection.</p>
-      <ul>
-        <li><strong>Auth Engine:</strong> Stateful session generation, validation, and destruction.</li>
-        <li><strong>Security Middleware:</strong> Strict route interceptors checking roles before granting access.</li>
-        <li><strong>Password Safety:</strong> Salted hashing with Bcrypt to resist credential compromise.</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Sessions-0284C7?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-
-  <!-- Row 2: Applications & CRUD Systems -->
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/CRUD-RESTFUL%20API-1E40AF?style=for-the-badge" alt="CRUD"/>
-        <h3>📝 Quora Posts CRUD Platform</h3>
-        <a href="https://github.com/priyanshu23216/Quora--Posts-CRUD">
-          <img src="https://img.shields.io/badge/EXPLORE%20CODE-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA" alt="Quora CRUD Repo"/>
-        </a>
-      </div>
-      <br/>
-      <p>A social question-and-response platform inspired by Quora enabling dynamic post drafting, editing, rendering, and removal conforming to REST specifications.</p>
-      <ul>
-        <li><strong>Routing:</strong> Strict HTTP verbs (GET, POST, PATCH, DELETE) with method-override.</li>
-        <li><strong>Architecture:</strong> Model-View-Controller (MVC) pattern with EJS dynamic templates.</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/DATABASE-RELATIONAL-2563EB?style=for-the-badge" alt="Database"/>
-        <h3>👥 Express MySQL User Directory</h3>
-        <a href="https://github.com/priyanshu23216/express-mysql-user-management">
-          <img src="https://img.shields.io/badge/EXPLORE%20CODE-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Express MySQL Repo"/>
-        </a>
-      </div>
-      <br/>
-      <p>An enterprise user administration portal establishing direct connectivity between Express and MySQL for real-time querying, record filtering, and state updates.</p>
-      <ul>
-        <li><strong>SQL Integration:</strong> Optimized queries, connection pools, and error handling.</li>
-        <li><strong>Data Auditing:</strong> Dynamic table visualization of registered system accounts.</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Full%20Stack-2563EB?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Live GitHub Telemetry
+### 📊 Live GitHub Telemetry (IST Calibrated)
 
 <div align="center">
 
-  <table border="0">
+  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshu23216&theme=tokyonight" alt="Profile Details" />
+
+  <br/><br/>
+
+  <table>
     <tr>
-      <td>
-        <img height="185" src="https://github-readme-stats.vercel.app/api?username=priyanshu23216&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats" />
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshu23216&theme=tokyonight" alt="GitHub Stats" />
       </td>
-      <td>
-        <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu23216&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=priyanshu23216&theme=tokyonight&utcOffset=5.5" alt="Productive Time (IST)" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshu23216&theme=tokyonight" alt="Repos per Language" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyanshu23216&theme=tokyonight" alt="Most Commit Language" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img width="85%" src="https://streak-stats.demolab.com?user=priyanshu23216&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img width="85%" src="https://streak-stats.demolab.com?user=priyanshu23216&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" alt="GitHub Streak Stats (IST)" />
 
 </div>
 
@@ -284,13 +204,12 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/priyanshu23216">
-    <img src="https://img.shields.io/badge/FOLLOW%20ON-GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/FOLLOW%20ON-GITHUB-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 
   <br/><br/>
 
-  <p style="color: #64748B; font-size: 13px;">
-    © 2026 Priyanshu Singh &bull; Built with passion for scalable product engineering.
-  </p>
+  <!-- ==================== ANIMATED GRADIENT WAVE FOOTER ==================== -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:2563EB,70:6D28D9,100:0F172A&height=130&section=footer&text=Built%20with%20%E2%9D%A4%EF%B8%8F%20by%20Priyanshu%20Singh&fontSize=18&fontColor=E2E8F0&fontAlignY=68" alt="Footer Wave" />
 
 </div>
