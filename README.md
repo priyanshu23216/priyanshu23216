@@ -5,7 +5,7 @@
 
   <!-- ==================== ANIMATED TYPING SUBTITLE ==================== -->
   <a href="https://github.com/priyanshu23216">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=540&lines=Full+Stack+Developer+%7C+Software+Engineer;C%2B%2B+DSA+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Express;MySQL+%E2%80%A2+MongoDB+%E2%80%A2+Redis+%E2%80%A2+Docker+%E2%80%A2+Azure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Priyanshu+Singh+%F0%9F%91%8B;Priyanshu+Singh+%E2%80%A2+Software+Engineer;Full+Stack+Developer+%F0%9F%92%BB;C%2B%2B+DSA+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Express;MySQL+%E2%80%A2+MongoDB+%E2%80%A2+Redis+%E2%80%A2+Docker+%E2%80%A2+Azure" alt="Typing SVG" />
   </a>
 
   <p>
@@ -91,9 +91,28 @@
 
 ---
 
+### 🚀 Featured Project
+
+<div align="center">
+  <a href="https://github.com/priyanshu23216/stayora">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshu23216&repo=stayora&hide_border=true&bg_color=060913&title_color=3B82F6&text_color=94A3B8&icon_color=1D4ED8" alt="Stayora Repository" />
+  </a>
+</div>
+
+---
+
 ### 📊 Live GitHub Telemetry (IST Calibrated)
 
 <div align="center">
+
+  <!-- Animated Contribution Snake (Auto-updated daily via GitHub Actions) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshu23216/priyanshu23216/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyanshu23216/priyanshu23216/output/github-contribution-grid-snake.svg" />
+    <img width="94%" alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/priyanshu23216/priyanshu23216/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+
+  <br/><br/>
 
   <!-- Custom Abyssal Midnight & Deep Cobalt Blue Streak Card (IST Calibrated) -->
   <img width="88%" src="https://streak-stats.demolab.com?user=priyanshu23216&timezone=Asia/Kolkata&hide_border=true&background=060913&ring=1D4ED8&fire=2563EB&currStreakLabel=3B82F6&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&stroke=0F172A" alt="GitHub Streak Stats (IST)" />
