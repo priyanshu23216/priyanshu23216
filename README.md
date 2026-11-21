@@ -5,7 +5,7 @@
 
   <!-- ==================== ANIMATED TYPING SUBTITLE ==================== -->
   <a href="https://github.com/priyanshu23216">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=3B82F6&center=true&vCenter=true&width=660&lines=Hi%2C+I%27m+Priyanshu+Singh;Priyanshu+Singh+%E2%80%A2+Software+Engineer;Full+Stack+Developer+%E2%80%A2+Backend+Architect;C%2B%2B+DSA+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Express;MySQL+%E2%80%A2+MongoDB+%E2%80%A2+Redis+%E2%80%A2+Docker+%E2%80%A2+Azure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=540&lines=Full+Stack+Developer+%7C+Software+Engineer;C%2B%2B+DSA+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Express;MySQL+%E2%80%A2+MongoDB+%E2%80%A2+Redis+%E2%80%A2+Docker+%E2%80%A2+Azure" alt="Typing SVG" />
   </a>
 
   <p>
@@ -62,31 +62,24 @@
     <tr>
       <td align="center" width="50%">
         <h4>🚀 Backend & Databases</h4>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,redis,mysql,mongodb&theme=dark" alt="Node.js, Express, Redis, MySQL, MongoDB" />
+        <img src="https://skills.syvixor.com/api/icons?i=nodejs,express,redis,mysql,mongodb,zod,passportjs" alt="Node.js, Express, Redis, MySQL, MongoDB, Zod, Passport.js" />
       </td>
       <td align="center" width="50%">
         <h4>☁️ Cloud, Containers & DevOps</h4>
-        <img src="https://skillicons.dev/icons?i=docker,azure,git,linux&theme=dark" alt="Docker, Microsoft Azure, Git, Linux" />
+        <img src="https://skills.syvixor.com/api/icons?i=docker,azure,cloudinary,git,linux" alt="Docker, Microsoft Azure, Cloudinary, Git, Linux" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <h4>🔐 Security, Validation & Cloud Media</h4>
-  <p>
-    <img src="https://img.shields.io/badge/PASSPORT.JS-060913?style=for-the-badge&logo=passport&logoColor=34E27A" alt="Passport.js" />
-    <img src="https://img.shields.io/badge/ZOD%20VALIDATION-1E3A8A?style=for-the-badge&logo=zod&logoColor=3E67B1" alt="Zod" />
-    <img src="https://img.shields.io/badge/CLOUDINARY-0F172A?style=for-the-badge&logo=cloudinary&logoColor=3448C5" alt="Cloudinary" />
-    <img src="https://img.shields.io/badge/REDIS%20CACHE-060913?style=for-the-badge&logo=redis&logoColor=EF4444" alt="Redis Store" />
-  </p>
+  <h4>🔐 Security & AI-Accelerated Tooling</h4>
   <p>
     <img src="https://img.shields.io/badge/SESSION%20AUTH-060913?style=for-the-badge&logo=express&logoColor=2563EB" alt="Session Auth" />
     <img src="https://img.shields.io/badge/RBAC%20ACCESS-1E3A8A?style=for-the-badge&logo=shield&logoColor=E2E8F0" alt="RBAC" />
+    <img src="https://img.shields.io/badge/REDIS%20CACHE-060913?style=for-the-badge&logo=redis&logoColor=EF4444" alt="Redis Store" />
     <img src="https://img.shields.io/badge/BCRYPT%20HASH-0F172A?style=for-the-badge&logo=letsencrypt&logoColor=2563EB" alt="Bcrypt" />
   </p>
-
-  <h4>🤖 AI-Accelerated Tooling</h4>
   <p>
     <img src="https://img.shields.io/badge/Antigravity-Agentic%20AI%20Coding-1E3A8A?style=for-the-badge&logo=google&logoColor=F8FAFC" alt="Antigravity" />
     <img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Pair%20Programmer-060913?style=for-the-badge&logo=githubcopilot&logoColor=3B82F6" alt="GitHub Copilot" />
